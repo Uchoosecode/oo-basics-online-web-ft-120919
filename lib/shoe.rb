@@ -11,7 +11,7 @@ class Shoe
    @brand
   end
   
-  def 
+
 end
 
 Shoe.new("Nike")
