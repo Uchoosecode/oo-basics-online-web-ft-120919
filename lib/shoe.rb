@@ -2,9 +2,17 @@
 
 class Shoe
 
-  def initialize(shoe)
-    @shoe = shoe
-    @brand = ""
+  def initialize(brand= "Addias")
+    
+    @brand = brand
+  end
+  
+  
+  
+  def brand
+   puts "Nike"
   end
   
 end
+
+Shoe.new
