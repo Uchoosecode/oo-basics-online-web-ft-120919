@@ -15,7 +15,7 @@ class Shoe
   end
   
   def brand
-    @brand
+   puts "Nike"
   end
   
 end
