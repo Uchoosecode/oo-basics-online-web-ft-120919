@@ -10,10 +10,6 @@ class Shoe
     @shoe = shoe
   end
   
-  def brand=(brand)
-    @brand = "Nike"
-  end
-  
   def brand
    puts "Nike"
   end
