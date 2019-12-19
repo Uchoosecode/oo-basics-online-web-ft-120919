@@ -10,9 +10,9 @@ class Shoe
   
   
   def brand
-   puts "Nike"
+   @brand
   end
   
 end
 
-Shoe.new
+Shoe.new("Nike")
